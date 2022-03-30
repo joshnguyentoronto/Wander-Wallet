@@ -222,7 +222,7 @@ Most of the booking sites do not provide a way to track and plan our budget prop
 Developer:\
 [Justin Chapman](https://github.com/JChapman13/)\
 [Lu Ye](https://www.linkedin.com/in/lu-ye-b17192109/)\
-[Joanne Kam](https://google.com/)\
+[Joanne Kam](https://git.generalassemb.ly/joannewckam/)\
 [Josh Nguyen](https://joshnguyentoronto.com/)
 
 Designer:\
